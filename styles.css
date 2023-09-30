@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+li {
+    font-style: italic;
+}
+
+.home {
+    margin: auto;
+    width: 15%;
+    border: 3px solid green;
+    padding: 20px;
+}
